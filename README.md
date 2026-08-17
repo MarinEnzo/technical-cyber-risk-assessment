@@ -107,7 +107,7 @@ The proposed remediation measures reduce the assessed risk exposure:
 
 The complete assessment workbook is available in: 
 
-`assessment/Cyber_Risk_Assessment.xlsx`
+[Cyber Risk Assessment](assessment/Cyber_Risk_Assessment.xlsx)
 
 
 It contains:
@@ -139,3 +139,12 @@ It contains:
 This project was developed in a controlled cybersecurity laboratory environment for educational and professional portfolio purposes.
 
 No production systems, confidential organizational information, customer data, or unauthorized third-party systems were used.
+
+
+## Documentation
+
+Additional assessment documentation:
+
+- [Assessment Scope](docs/assessment-scope.md)
+- [Assessment Methodology](docs/methodology.md)
+- [Findings Summary](docs/findings-summary.md)
